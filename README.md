@@ -3,7 +3,7 @@
 This is a demo version of a platformer game. In this game you play as Knightly who has been transported to an unknown location through a mage attack on the kingdom. You need to help Knightly find his way back to the kingdom through completing various levels. Are you up to the task?<br/>
 
 ### How to play
-This demo is available to be played on Windows only
+Unfortunately as this game is only a demo it isn't available to be played at the moment. 
 
 ### Gameplay Examples
 ![Knightly's Whimsical Adventures 2024_09_21 14_18_02](https://github.com/user-attachments/assets/d2260635-d67c-4c87-8ef0-c14ef76b2c63)
